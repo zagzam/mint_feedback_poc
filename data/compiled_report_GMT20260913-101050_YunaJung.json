@@ -1,0 +1,525 @@
+[
+  {
+    "class_stats": {
+      "class_id": "GMT20260913-101050",
+      "role": "student",
+      "file_name": "GMT20260913-101050_YunaJung ST.vtt",
+      "speaker_name": "YunaJung",
+      "summary": {
+        "total_utterances": 334,
+        "valid_turns_count": 185,
+        "short_turns_filtered": 149,
+        "total_words_spoken": 2706,
+        "total_talk_time_sec": 1191.24,
+        "overall_session_wpm": 136.3,
+        "raw_mean_wpm": 152.6,
+        "trimmed_mean_wpm": 150.1,
+        "mlu_overall": 8.1,
+        "unique_lemma_count": 450,
+        "mtld_score": 30.95,
+        "min_turn_wpm": 53,
+        "max_turn_wpm": 311.7,
+        "participation_percentage": 0.54
+      },
+      "vocabulary": {
+        "high_level": {
+          "b2_vocab": [
+            "bottle",
+            "bud",
+            "clap",
+            "confess",
+            "cool",
+            "correct",
+            "creation",
+            "explode",
+            "fighting",
+            "god",
+            "hint",
+            "least",
+            "mama",
+            "now",
+            "obsess",
+            "picky",
+            "principal",
+            "rainbow",
+            "spin",
+            "syllable",
+            "test",
+            "water",
+            "will"
+          ],
+          "c1_vocab": [],
+          "c2_vocab": []
+        },
+        "vocab_distrib_unique_lemmas": {
+          "A1": 229,
+          "A2": 64,
+          "B1": 43,
+          "B2": 23,
+          "C1": 0,
+          "C2": 0
+        }
+      }
+    },
+    "m0_summary": {
+      "prevailing_topic": "종이 인형과 다양한 만들기 활동",
+      "lesson_summary": "학생은 직접 만든 스퀴시와 종이 인형을 보여 주며 인형의 나이, 이름, 좋아하는 음식과 취미를 설명했습니다. 수업 후반에는 팔찌와 학용품 등 다른 만들기 작품과 친구들에게 준 선물에 대해서도 이야기했습니다.",
+      "overall_praise": "학생은 자신의 창작물을 매우 자세하게 설명하고 선생님에게 여러 질문을 하며 대화를 적극적으로 이끌었습니다. 상상력이 풍부하고 긴 시간 동안 영어로 이야기를 이어 간 점이 정말 훌륭합니다."
+    },
+    "m1_lexical": {
+      "better_expr": [
+        {
+          "start_t": "00:01:12.340",
+          "end_t": "00:01:16.600",
+          "orig": "I made a lot of things",
+          "sugg": "I made several crafts",
+          "kr_expl": "여러 가지 만들기 작품을 만들었다는 뜻이라면 several crafts가 더 구체적이고 자연스럽습니다. 자신의 활동을 잘 설명했어요."
+        },
+        {
+          "start_t": "00:08:24.730",
+          "end_t": "00:08:28.470",
+          "orig": "If you're going to address something for Halloween",
+          "sugg": "If you're going to dress up for Halloween",
+          "kr_expl": "할로윈에 특별한 옷을 입는다는 뜻에는 dress up for Halloween이라는 표현을 사용합니다. 의미를 잘 전달하려고 시도한 점이 좋아요."
+        },
+        {
+          "start_t": "00:18:01.580",
+          "end_t": "00:18:11.400",
+          "orig": "you need to get it",
+          "sugg": "you need to guess her name",
+          "kr_expl": "이름을 맞혀야 한다는 상황에서는 guess her name이 더 분명하고 자연스럽습니다. 게임처럼 상대방에게 힌트를 주며 대화를 이어 간 점이 재미있어요."
+        },
+        {
+          "start_t": "00:42:33.220",
+          "end_t": "00:42:38.120",
+          "orig": "It's not going to be broken",
+          "sugg": "It won't break",
+          "kr_expl": "종이 인형이 망가지지 않을 것이라고 말할 때는 It won't break가 더 자연스럽고 간단합니다. 작품을 소중히 다루며 이유를 설명한 점이 멋져요."
+        },
+        {
+          "start_t": "00:47:19.880",
+          "end_t": "00:47:30.660",
+          "orig": "So she shows she accepts it",
+          "sugg": "So she goes along with it",
+          "kr_expl": "인형이 주인의 행동을 받아들이고 따른다는 뜻에는 goes along with it이 자연스럽습니다. 인형의 성격과 행동을 창의적으로 표현했어요."
+        }
+      ],
+      "l1_interf": [
+        {
+          "start_t": "00:16:32.520",
+          "end_t": "00:16:45.350",
+          "orig": "she felt gibberish when she doesn't have this thing on her",
+          "corr": "she sounded like gibberish when she didn't have this part on her",
+          "kr_expl": "말이 이상하게 들린다는 뜻에는 felt gibberish보다 sounded like gibberish가 알맞습니다. 인형의 입이 하는 역할을 자세히 설명한 점이 아주 좋아요."
+        },
+        {
+          "start_t": "00:46:07.290",
+          "end_t": "00:46:11.910",
+          "orig": "This is my whole iteration",
+          "corr": "This is my entire creation",
+          "kr_expl": "직접 만든 작품 전체를 말할 때는 entire creation이 자연스럽습니다. 자신의 작품에 애정을 가지고 설명한 모습이 정말 인상적이에요."
+        }
+      ],
+      "circumloc": []
+    },
+    "m2_grammar": {
+      "grammar_corr": [
+        {
+          "start_t": "00:08:23.070",
+          "end_t": "00:08:28.470",
+          "orig": "what it would be?",
+          "corr": "what would it be?",
+          "err_code": "SYNTAX_INV",
+          "kr_expl": "의문문에서는 조동사 would가 주어 앞에 옵니다. 따라서 what would it be가 자연스러워요."
+        },
+        {
+          "start_t": "00:24:51.450",
+          "end_t": "00:24:56.960",
+          "orig": "weirdly sourly",
+          "corr": "weirdly sour",
+          "err_code": "ADV_FORM",
+          "kr_expl": "sour는 맛을 설명하는 형용사이므로 sourly 대신 sour를 사용합니다. 맛을 나타내는 표현을 잘 시도했어요."
+        },
+        {
+          "start_t": "00:43:19.260",
+          "end_t": "00:43:25.990",
+          "orig": "because how hard I pushed it",
+          "corr": "because of how hard I pushed it",
+          "err_code": "PREP_DEP",
+          "kr_expl": "how절 앞에서 이유를 나타낼 때는 because of를 사용합니다. because of how hard I pushed it이라고 말하면 더 정확해요."
+        },
+        {
+          "start_t": "00:45:01.540",
+          "end_t": "00:45:07.280",
+          "orig": "I don't like to broke her",
+          "corr": "I don't like to break her",
+          "err_code": "VERB_FORM",
+          "kr_expl": "to 뒤에는 동사원형이 와야 하므로 broke 대신 break를 사용합니다. to break 형태를 기억해 보세요."
+        },
+        {
+          "start_t": "00:45:01.540",
+          "end_t": "00:45:07.280",
+          "orig": "I don't like to broke her",
+          "corr": "I don't like to break her",
+          "err_code": "VERB_FORM",
+          "kr_expl": "to 뒤에는 동사원형이 와야 하므로 broke 대신 break를 사용합니다. to break 형태를 기억해 보세요."
+        }
+      ],
+      "fossilized_errors": [
+        {
+          "start_t": "00:01:06.720",
+          "end_t": "00:01:10.900",
+          "orig": "I made squishy.",
+          "corr": "I made a squishy.",
+          "err_code": "DET_ART",
+          "historical_count": 18,
+          "kr_advice": "관사 누락이 자주 나타나는 습관이에요. 하나의 물건을 말할 때 명사 앞에 a 또는 an을 먼저 붙이는 연습을 해 보세요."
+        },
+        {
+          "start_t": "00:06:10.650",
+          "end_t": "00:06:20.370",
+          "orig": "Why does people",
+          "corr": "Why do people",
+          "err_code": "VERB_SVA",
+          "historical_count": 9,
+          "kr_advice": "주어가 people처럼 복수이면 do를 사용해야 해요. 의문문을 만들 때 주어가 한 명인지 여러 명인지 먼저 확인해 보세요."
+        },
+        {
+          "start_t": "00:06:10.650",
+          "end_t": "00:06:20.370",
+          "orig": "in the 2026",
+          "corr": "in 2026",
+          "err_code": "DET_ART",
+          "historical_count": 18,
+          "kr_advice": "연도 앞에는 보통 the를 쓰지 않아요. in 2026처럼 연도만 바로 말하는 습관을 길러 보세요."
+        },
+        {
+          "start_t": "00:51:02.190",
+          "end_t": "00:51:05.430",
+          "orig": "the most pieces I have is what I made",
+          "corr": "most of the pieces I have are what I made",
+          "err_code": "VERB_SVA",
+          "historical_count": 9,
+          "kr_advice": "pieces가 복수이므로 동사는 are를 사용해야 해요. 복수 명사를 찾은 뒤 동사도 함께 확인해 보세요."
+        }
+      ],
+      "golden_sentence": [
+        {
+          "start_t": "00:22:15.140",
+          "end_t": "00:22:27.440",
+          "sentence": "Because her horn, when she eats something, makes the food that she's eating more flavorful than the one who made it.",
+          "kr_praise": "when절과 that절을 함께 사용해서 아주 풍부하게 설명했어요. 긴 생각을 영어로 끝까지 표현한 점이 정말 멋져요."
+        },
+        {
+          "start_t": "00:55:45.600",
+          "end_t": "00:55:48.680",
+          "sentence": "Even if I have sharp nails and I use it, it's not going to pop.",
+          "kr_praise": "Even if 조건절을 사용해 상황을 논리적으로 설명했어요. 문장 구조가 자연스럽고 의미도 분명해요."
+        }
+      ],
+      "self_corr": [
+        {
+          "start_t": "00:20:50.980",
+          "end_t": "00:21:15.790",
+          "orig": "purple, I mean rainbow",
+          "kr_praise": "말하는 중에 단어를 바로 고쳐서 더 정확한 의미를 전달했어요. 자신의 표현을 스스로 점검하는 모습이 아주 좋아요."
+        },
+        {
+          "start_t": "00:22:42.280",
+          "end_t": "00:22:54.850",
+          "orig": "black, blue flavor",
+          "kr_praise": "색깔 표현을 바로 수정하면서 원하는 단어를 정확히 찾았어요. 자연스러운 자기 교정이에요."
+        },
+        {
+          "start_t": "00:47:12.240",
+          "end_t": "00:47:30.660",
+          "orig": "whatever I want, what she wants",
+          "kr_praise": "말하는 중에 의미를 더 정확하게 다듬었어요. 생각을 조정하면서 문장을 이어 가는 능력이 훌륭해요."
+        }
+      ]
+    },
+    "m3_discourse": {
+      "topic_dev": {
+        "strengths": [
+          {
+            "start_t": "00:10:25.870",
+            "end_t": "00:11:12.190",
+            "orig": "Whenever I go to school, sometimes my friend, which is Rianca, is always here. And then my other friend, Aaliyah, is always here. And they are two enemies. But they both like me and they're both my best friends.",
+            "kr_praise": "친구들 사이의 갈등을 구체적인 인물과 상황을 사용해 자세히 설명했어요. 자신의 감정과 친구들의 행동도 자연스럽게 덧붙여 주제를 풍성하게 확장했어요."
+          },
+          {
+            "start_t": "00:18:32.780",
+            "end_t": "00:24:00.110",
+            "orig": "Since her lower part's mouth keeps falling, when she wrote this, she talks like... But if she has the lower part...",
+            "kr_praise": "직접 만든 인형의 특징과 음식 취향을 상상력 있게 설명했어요. 원인과 결과를 연결하면서 긴 설명을 이어 간 점이 아주 좋아요."
+          }
+        ],
+        "improvements": [
+          {
+            "start_t": "00:07:20.980",
+            "end_t": "00:07:31.690",
+            "orig": "I guess so.",
+            "sugg": "I think it is common in Korea too, especially among younger children, but I am not completely sure.",
+            "kr_advice": "짧게 대답한 뒤 자신의 생각이나 예시를 한 문장 더 덧붙이면 주제를 더 오래 이어 갈 수 있어요."
+          }
+        ]
+      },
+      "questioning": {
+        "strengths": [
+          {
+            "start_t": "00:15:21.710",
+            "end_t": "00:15:49.560",
+            "orig": "Are you okay? Where do you live? What street do you live?",
+            "kr_praise": "선생님의 기침을 듣고 먼저 상태를 물어본 뒤 사는 곳에 대해 연속해서 질문했어요. 상대방에게 관심을 보이며 대화를 주도한 점이 좋아요."
+          },
+          {
+            "start_t": "00:47:49.290",
+            "end_t": "00:48:28.880",
+            "orig": "Did you ever have a student that was like me? Cool, what's her name?",
+            "kr_praise": "선생님의 경험을 듣고 바로 추가 질문을 하며 대화를 자연스럽게 확장했어요. 상대방의 이야기에 호기심을 보이는 좋은 질문 방식이에요."
+          }
+        ],
+        "improvements": [
+          {
+            "start_t": "00:15:43.130",
+            "end_t": "00:15:45.770",
+            "orig": "Anyways,",
+            "context": "선생님이 필리핀의 우기와 날씨 변화 때문에 감기에 걸렸다고 설명했어요.",
+            "sugg": "Does the rainy season last for a long time there?",
+            "kr_advice": "선생님의 설명을 들은 뒤 바로 화제를 바꾸기보다, 방금 들은 내용에 관한 짧은 추가 질문을 해 보세요."
+          }
+        ]
+      },
+      "cohesion": {
+        "strengths": [
+          {
+            "start_t": "00:10:25.870",
+            "end_t": "00:11:12.190",
+            "orig": "And they are two enemies. But they both like me and they're both my best friends. So they're like doing this to me.",
+            "connector": "But, So",
+            "kr_praise": "대조와 결과를 나타내는 연결어를 사용해 친구들의 복잡한 관계를 이해하기 쉽게 설명했어요."
+          },
+          {
+            "start_t": "00:22:38.990",
+            "end_t": "00:23:48.340",
+            "orig": "Because her horn, when she eats something, her horn makes the food that she's eating more of the flavor than the one who made it.",
+            "connector": "Because",
+            "kr_praise": "because를 사용해 인형의 뿔과 음식 맛의 관계를 논리적으로 설명했어요. 긴 설명에서도 원인과 결과를 연결하려는 시도가 분명했어요."
+          }
+        ],
+        "improvements": [
+          {
+            "start_t": "00:22:38.990",
+            "end_t": "00:23:48.340",
+            "orig": "Yeah, because if she eats something, because the cotton candy is like water, and then if she eats it, it will turn water. Because, you know, her horn can do a lot of stuff when she's eating.",
+            "sugg": "If she eats cotton candy, it turns into water because her horn changes the food's texture. In addition, her horn can make ordinary flavors much stronger.",
+            "kr_advice": "긴 문장에서 because와 and를 반복하기보다 문장을 나누고 in addition이나 as a result 같은 연결어를 사용하면 더 자연스러워요."
+          }
+        ]
+      },
+      "backchannel": {
+        "strengths": [
+          {
+            "start_t": "00:02:48.420",
+            "end_t": "00:03:04.680",
+            "orig": "I tell you something very weird?",
+            "kr_praise": "선생님의 반응을 기다리지 않고 흥미로운 이야기를 시작해 대화에 적극적으로 참여했어요. 자신의 이야기를 공유하려는 태도가 잘 드러나요."
+          },
+          {
+            "start_t": "00:15:21.710",
+            "end_t": "00:15:36.300",
+            "orig": "Are you okay?",
+            "kr_praise": "선생님의 기침에 Are you okay?라고 반응하며 상대방의 상태를 확인했어요. 단순한 대답보다 관심을 보여 주는 좋은 반응이에요."
+          }
+        ],
+        "improvements": [
+          {
+            "start_t": "00:15:43.130",
+            "end_t": "00:15:45.770",
+            "orig": "Anyways,",
+            "context": "선생님이 필리핀의 날씨 변화와 감기에 걸린 이유를 설명했어요.",
+            "sugg": "Oh, that sounds uncomfortable. I hope you feel better soon.",
+            "kr_advice": "선생님의 설명이 끝난 뒤 화제를 바꾸기 전에 공감이나 걱정을 나타내는 짧은 반응을 먼저 해 보세요."
+          }
+        ]
+      },
+      "meaning_neg": {
+        "strengths": [
+          {
+            "start_t": "00:09:23.070",
+            "end_t": "00:09:49.980",
+            "orig": "No, it's not in Roblox. It's in Tocabocca. They have its own wings.",
+            "kr_praise": "선생님이 게임을 잘못 이해했을 때 아니라고 바로 정정하고 정확한 게임 이름과 특징을 설명했어요. 의미를 분명하게 전달하려는 태도가 좋아요."
+          },
+          {
+            "start_t": "00:24:00.930",
+            "end_t": "00:26:14.310",
+            "orig": "No, it's not. I don't think that chocolate has a red flavor. But this is her fifth favorite because it's all part of the rainbow.",
+            "kr_praise": "선생님이 음식 취향을 추측할 때 계속 아니라고만 하지 않고 색깔과 맛에 관한 추가 정보를 제공했어요. 상대방이 이해하도록 의미를 조정하려는 시도가 좋았어요."
+          }
+        ],
+        "improvements": []
+      }
+    },
+    "m4_generative": {
+      "vocab_mission": [
+        {
+          "kr_meaning": "나는 여러 가지 만들기 작품을 만들었어.",
+          "correct_sentence": "I made several crafts.",
+          "jumbled_words": [
+            "crafts",
+            "I",
+            "several",
+            "made"
+          ]
+        },
+        {
+          "kr_meaning": "나는 할로윈에 특별한 옷을 입을 거야.",
+          "correct_sentence": "I will dress up for Halloween.",
+          "jumbled_words": [
+            "dress",
+            "Halloween",
+            "I",
+            "up",
+            "will",
+            "for"
+          ]
+        },
+        {
+          "kr_meaning": "너는 그녀의 이름을 맞혀야 해.",
+          "correct_sentence": "You need to guess her name.",
+          "jumbled_words": [
+            "her",
+            "need",
+            "name",
+            "You",
+            "to",
+            "guess"
+          ]
+        },
+        {
+          "kr_meaning": "그것은 망가지지 않을 거야.",
+          "correct_sentence": "It won't break.",
+          "jumbled_words": [
+            "break",
+            "won't",
+            "it"
+          ]
+        },
+        {
+          "kr_meaning": "그녀는 그것을 받아들여 따라가.",
+          "correct_sentence": "She goes along with it.",
+          "jumbled_words": [
+            "with",
+            "it",
+            "goes",
+            "she",
+            "along"
+          ]
+        }
+      ],
+      "grammar_quiz": [
+        {
+          "sentence_with_blank": "Can you guess? ____ it be?",
+          "kr_hint": "의문문에서는 would가 주어 앞에 와요.",
+          "options": [
+            "What will",
+            "What would",
+            "What does",
+            "What it would"
+          ],
+          "correct_answer": "What would"
+        },
+        {
+          "sentence_with_blank": "The candy tastes ____ .",
+          "kr_hint": "맛을 설명할 때는 형용사 sour를 사용해요.",
+          "options": [
+            "sourly",
+            "sourer",
+            "sour",
+            "sourness"
+          ],
+          "correct_answer": "sour"
+        },
+        {
+          "sentence_with_blank": "It broke ____ how hard I pushed it.",
+          "kr_hint": "how절 앞에서 이유를 말할 때는 because of를 사용해요.",
+          "options": [
+            "because",
+            "for",
+            "because of",
+            "so"
+          ],
+          "correct_answer": "because of"
+        },
+        {
+          "sentence_with_blank": "I do not like to ____ her.",
+          "kr_hint": "to 뒤에는 동사원형이 와요.",
+          "options": [
+            "broke",
+            "break",
+            "breaks",
+            "breaking"
+          ],
+          "correct_answer": "break"
+        },
+        {
+          "sentence_with_blank": "I made ____ .",
+          "kr_hint": "하나의 물건을 말할 때는 a를 사용해요.",
+          "options": [
+            "an squishy",
+            "a squishy",
+            "the squishy",
+            "squishy"
+          ],
+          "correct_answer": "a squishy"
+        }
+      ],
+      "warmup_prompt": {
+        "en_question": "What craft will you make next?",
+        "kr_translation": "다음에는 어떤 만들기 작품을 만들 거야?"
+      },
+      "rewrite_challenge": [
+        {
+          "original_sentences": [
+            "I made a bracelet.",
+            "I gave it to my friend."
+          ],
+          "combined_sentence_with_blank": "I made a bracelet ____ I gave it to my friend.",
+          "options": [
+            "but",
+            "and",
+            "because"
+          ],
+          "correct_answer": "and"
+        },
+        {
+          "original_sentences": [
+            "My puppet's mouth fell off.",
+            "She could not speak well."
+          ],
+          "combined_sentence_with_blank": "My puppet could not speak well ____ her mouth fell off.",
+          "options": [
+            "but",
+            "because",
+            "and"
+          ],
+          "correct_answer": "because"
+        },
+        {
+          "original_sentences": [
+            "I like crafting.",
+            "I make many things."
+          ],
+          "combined_sentence_with_blank": "I like crafting, ____ I make many things.",
+          "options": [
+            "but",
+            "so",
+            "because"
+          ],
+          "correct_answer": "so"
+        }
+      ]
+    }
+  }
+]
