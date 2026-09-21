@@ -24,15 +24,15 @@
     <div class="upload-grid">
       <div class="upload-card">
         <div class="upload-icon"><svg viewBox="0 0 24 24" width="28" height="28"><path fill="currentColor" d="M6 2h9l5 5v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2Zm8 1.5V8h4.5L14 3.5ZM8 13h8v1.5H8V13Zm0 3.5h8V18H8v-1.5ZM8 9.5h4V11H8V9.5Z"/></svg></div>
-        <div class="upload-text"><span class="step-tag">STEP 1</span><h3>학생 리포트 (JSON)</h3><p>CDN에서 학생의 종합 분석 리포트를 가져옵니다.</p><input id="studentUrl" class="url-input" type="url" aria-label="학생 리포트 URL" value="./data/YunaJung.json" /><a class="cdn-link" href="./data/YunaJung.json" target="_blank" rel="noopener">원본 URL 열기</a></div>
+        <div class="upload-text"><span class="step-tag">STEP 1</span><h3>학생 리포트 (JSON)</h3><p>CDN에서 학생의 종합 분석 리포트를 가져옵니다.</p><input id="studentUrl" class="url-input" type="url" aria-label="학생 리포트 URL" value="student_json_url" /><a class="cdn-link" href="student_json_url" target="_blank" rel="noopener">원본 URL 열기</a></div>
       </div>
       <div class="upload-card">
         <div class="upload-icon"><svg viewBox="0 0 24 24" width="28" height="28"><path fill="currentColor" d="M9 3v10.55A4 4 0 1 0 11 17V7h6V3H9Z"/></svg></div>
-        <div class="upload-text"><span class="step-tag">STEP 2</span><h3>수업 녹음 (M4A)</h3><p>CDN의 수업 오디오를 리포트 재생기에 연결합니다.</p><input id="audioUrl" class="url-input" type="url" aria-label="수업 녹음 URL" value="./data/Sidra_YunaJung ST.m4a" /><a class="cdn-link" href="./data/Sidra_YunaJung ST.m4a" target="_blank" rel="noopener">원본 URL 열기</a></div>
+        <div class="upload-text"><span class="step-tag">STEP 2</span><h3>수업 녹음 (M4A)</h3><p>CDN의 수업 오디오를 리포트 재생기에 연결합니다.</p><input id="audioUrl" class="url-input" type="url" aria-label="수업 녹음 URL" value="class_m4a_url" /><a class="cdn-link" href="class_m4a_url" target="_blank" rel="noopener">원본 URL 열기</a></div>
       </div>
       <div class="upload-card">
         <div class="upload-icon"><svg viewBox="0 0 24 24" width="28" height="28"><path fill="currentColor" d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm-7 9a7 7 0 0 1 14 0H5Zm13.5-9.5a3 3 0 1 0 0-6v2a1 1 0 1 1 0 2v2ZM20 21h-2a6 6 0 0 0-2.2-4.63A5 5 0 0 1 22 21h-2Z"/></svg></div>
-        <div class="upload-text"><span class="step-tag">STEP 3</span><h3>강사 통계 (JSON)</h3><p>CDN에서 강사명과 B2 이상 어휘를 가져옵니다.</p><input id="teacherUrl" class="url-input" type="url" aria-label="강사 통계 URL" value="./data/Sidra.json" /><a class="cdn-link" href="./data/Sidra.json" target="_blank" rel="noopener">원본 URL 열기</a></div>
+        <div class="upload-text"><span class="step-tag">STEP 3</span><h3>강사 통계 (JSON)</h3><p>CDN에서 강사명과 B2 이상 어휘를 가져옵니다.</p><input id="teacherUrl" class="url-input" type="url" aria-label="강사 통계 URL" value="teacher_json_url" /><a class="cdn-link" href="teacher_json_url" target="_blank" rel="noopener">원본 URL 열기</a></div>
       </div>
     </div>
     <button class="btn primary large" id="openReportBtn" type="button"><svg viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="m8 5 11 7-11 7V5Z"/></svg> CDN 리포트 불러오기</button>
@@ -46,7 +46,10 @@
   <div id="jsonCard" hidden></div><div id="audioCard" hidden></div><div id="teacherCard" hidden></div>
 
   <main id="reportRoot" class="report-root" hidden></main>
-  <footer class="footer-note"><p>이 리포트는 CDN에서 불러온 AI 분석 결과를 바탕으로 생성됩니다.</p></footer>
+  <footer class="footer-note">
+    <p>이 리포트는 CDN에서 불러온 AI 분석 결과를 바탕으로 생성됩니다.</p>
+    <p>수업 음질 문제, AI 환각 현상, 타임스탬프 기록 오류 등으로 인해 잘못 변환된 텍스트가 포함되거나 정확한 구간의 음성이 재생되지 않을 수 있습니다.</p>
+  </footer>
 </div>
 <div id="playerBar" class="player-bar" hidden>
   <button id="playPauseBtn" class="player-play-btn" type="button" aria-label="재생"><span class="player-control-icon" aria-hidden="true"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="m8 5 11 7-11 7V5Z"/></svg></span></button>
