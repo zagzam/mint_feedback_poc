@@ -539,7 +539,7 @@
       <p class="desc" style="margin-bottom:14px;">일상 대화에서 자주 쓰지 않는, 한 단계 더 어려운 단어들이에요. 이런 단어를 쓸수록 어휘력이 풍부하다는 뜻이에요.</p>
       <div class="vocab-chip-grid">${chips}</div>
       <div class="subsection-title" style="margin-top:28px;">${icon("book", 16)} 강사님이 수업에 사용한 어휘 (B2 이상)</div>
-      <p class="desc" style="margin-bottom:14px;">강사님이 이번 수업에서 사용하신 B2 이상의 어휘예요.</p>
+      <p class="desc" style="margin-bottom:14px;">강사님이 수업 도중 사용하신 어려운 어휘들이에요. 클릭해서 내 단어장에 담아보세요.</p>
       <div class="vocab-chip-grid">${teacherChips}</div>
     </section>`;
   }
